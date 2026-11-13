@@ -1,4 +1,4 @@
-<img width="631" height="535" alt="image" src="https://github.com/user-attachments/assets/88f43bd1-1de2-4bcf-98e2-fbad34b10697" /># craft-on-team-범인은개발자
+craft-on-team-범인은개발자
 # 표접 (標蝶)
 > 반복되는 하루 끝, 소중한 친구를 구하기 위해 시간을 거슬러 오르는 미스터리 비주얼 노벨
 
