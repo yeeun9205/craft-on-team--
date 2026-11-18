@@ -9,12 +9,24 @@ craft-on-team-범인은개발자
 하지만 야간자율학습이 시작된 어두운 밤, 잠깐의 엇갈림 속에서 서윤은 하린이 숨겨온 위기와 마주하게 되는데—  
 **과연 서윤은 소중한 친구를 지켜낼 수 있을까?**
 
+---
+
+반복되는 하루 속에서 하린을 구한다.  
+그런데 어딘가 이상하다. 조금씩 낯선 흔적들이 발견된다.  
+**당신이 정말 되돌리고 싶은 것은 무엇일까?**  
+아직 밝혀지지 않은 이야기들이 남아있다.
+
 ## 안내
 - 서윤이(혜리)와 하린이(승아)의 이야기는 이후에 계속됩니다.
 - 현재 플레이 가능한 콘텐츠는 게임의 일부만 구현한 버전입니다.
 - 이후 이야기는 추후 업데이트를 통해 공개될 예정입니다.
 - 플레이해 주셔서 감사합니다.
 - *(※ 본 게임에는 일부 플레이어에게 불쾌감이나 심리적 불편함을 유발할 수 있는 연출 및 민감한 소재가 포함되어 있으니 플레이에 유의해 주시기 바랍니다.)*
+
+## 설정집 (Setting Book)
+Chapter 0 이후의 이야기와 세계관 규칙, 등장인물 설정, 조사 단서 및 개발 로드맵을 미리 살펴볼 수 있습니다.
+
+- 📄 **[표접 설정집 (PDF) 보러가기](./표접_설정집.pdf)**
 
 ## 다운로드
 [게임 다운로드 (v1.0)](https://github.com/yeeun9205/craft-on-team--/releases/tag/v1.0)
@@ -29,17 +41,16 @@ craft-on-team-범인은개발자
 <img width="1230" height="604" alt="image" src="https://github.com/user-attachments/assets/893c038a-ea8d-45ac-ac4a-fc22fd7c413a" />
 <img width="1224" height="691" alt="image" src="https://github.com/user-attachments/assets/fe207096-c192-4945-9dfa-711d533f8f58" />
 
-
 ## 조작법
 <img width="729" height="543" alt="image" src="https://github.com/user-attachments/assets/fab27ab0-a895-49fd-a23c-9322c86e4d44" />
 <img width="622" height="282" alt="image" src="https://github.com/user-attachments/assets/b564da04-60be-4a78-8161-c746c454fa65" />
 
-
-
 ## 팀원 소개 (team. 범인은 개발자)
+| 이름 | 담당 역할 | GitHub |
+| --- | --- | --- |
 | 이예은 | 프로그래밍 / 캐릭터&배경 디자인 / 그래픽 / 연출 | [yeeun9205](https://github.com/yeeun9205) |
-| 구나현 | 시나리오 / 기획
-| 김해동 | 사운드 / 음악
+| 구나현 | 시나리오 / 기획 | - |
+| 김해동 | 사운드 / 음악 | - |
 
 ## 게임 소개
 - **장르**: 학원 미스터리 / 타임루프 비주얼 노벨 (Ren'Py)
